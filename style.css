@@ -41,3 +41,13 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+
+
+nav {
+    padding: 20px;
+    background-color: midnightblue;
+    color: #fff;
+    display: flex;
+    flex: row;
+    gap:20px;
+}
